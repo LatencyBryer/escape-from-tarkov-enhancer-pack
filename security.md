@@ -170,6 +170,6 @@ matches and a separate one for private testing.
 
 ---
 
-*escape-from-tarkov-enhancer-pack · Updated 2026-11-22 · Shared under the MIT License*
+*escape-from-tarkov-enhancer-pack · Updated 2026-11-23 · Shared under the MIT License*
 
-<!-- last reviewed 2026-11-22 -->
+<!-- last reviewed 2026-11-23 -->
